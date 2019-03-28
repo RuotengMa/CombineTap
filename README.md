@@ -22,3 +22,7 @@ next LaTex error automatically.
 # Source Code
 
 Messy scripts that may or may not be cleaned up in the future. 
+
+# Video demo
+
+Video demo available at https://youtu.be/Zvt_TU3kKcs
