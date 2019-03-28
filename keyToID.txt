@@ -1,0 +1,5 @@
+H,h
+n3,shift
+N,n
+n4,ctrl
+n9,-1
