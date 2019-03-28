@@ -15,7 +15,7 @@ associated with an action, it can be reused in new markers
 without the need of reintroducing the association. With
 CombineTap, a LaTex user using TeXstudio can combine the
 marker patterns for Ctrl, Shift and Up buttons into a single
-button that performs the keystroke combination of "Ctrl + Shift + Up". When the user taps this custom button during editing,
+button that performs the keystroke combination of ’Ctrl + Shift + Up’. When the user taps this custom button during editing,
 TeXstudio receives the keystroke combination and goes to the
 next LaTex error automatically.
 
